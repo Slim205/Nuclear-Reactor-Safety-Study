@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Slim205
-- 👀 I'm interested in machine learning and its applications in finance.
-- 🌱 I'm currently learning time series analysis.
-
-
-<!---
-Slim205/Slim205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The objective of this project is to use modern statistical tools to identify high-risk situations in nuclear centers by implementing a neural network model to predict safety criteria values. Currently, my focus has shifted to quantifying the uncertainties associated with the model as the second phase of our project.
