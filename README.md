@@ -1,4 +1,4 @@
-# Project Title: Predictive Modeling for Nuclear Plant Safety
+# Project Title: Nuclear Reactor Safety Study
 
 ## Introduction
 This project aimed to use modern statistical tools to identify high-risk situations in nuclear plants, with collaboration from EDF France.
@@ -13,6 +13,9 @@ The data used in this project was provided by EDF France and included various pa
 - Successfully developed predictive models to identify high-risk situations.
 - Implemented Bayesian methods to quantify prediction uncertainties.
 - Generated visualizations summarizing predictions and uncertainties.
+
+## Collaboration
+This project was conducted in collaboration with students from CentraleSupelec, fostering interdisciplinary teamwork and knowledge exchange.
 
 ## Conclusion
 This project provided valuable insights into the application of machine learning and modern statistical techniques in nuclear plant safety analysis. Future work may involve refining the models and exploring additional data sources.
