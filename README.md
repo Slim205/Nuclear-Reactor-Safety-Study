@@ -1,8 +1,18 @@
-This project was a collaboration with EDF France, who provided the data.
+# Project Title: Predictive Modeling for Nuclear Plant Safety
 
-The objective of our project is to utilize modern statistical tools to identify high-risk situations in nuclear plants and present a single graph summarizing the predictions and uncertainties.
+## Introduction
+This project aimed to use modern statistical tools to identify high-risk situations in nuclear plants, with collaboration from EDF France.
 
-This project provided me with an opportunity to learn how to implement a neural network and gain insights into various machine learning methods used in classification and regression. I implemented a neural network model to predict safety criteria values.
+## Project Overview
+The objective was to develop predictive models to identify potential safety concerns within nuclear plants, with a focus on utilizing machine learning techniques.
 
-In the second phase, I focused on quantifying uncertainties. I studied Bayesian neural networks as one of the Bayesian approaches, and I implemented Conformal Prediction to quantify the uncertainty of the predictions.
+## Data Source
+The data used in this project was provided by EDF France and included various parameters and measurements from nuclear plant operations.
 
+## Results
+- Successfully developed predictive models to identify high-risk situations.
+- Implemented Bayesian methods to quantify prediction uncertainties.
+- Generated visualizations summarizing predictions and uncertainties.
+
+## Conclusion
+This project provided valuable insights into the application of machine learning and modern statistical techniques in nuclear plant safety analysis. Future work may involve refining the models and exploring additional data sources.
