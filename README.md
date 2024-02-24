@@ -17,4 +17,4 @@ The data used in this project was provided by EDF France and included various pa
 ## Conclusion
 This project provided valuable insights into the application of machine learning and modern statistical techniques in nuclear plant safety analysis. Future work may involve refining the models and exploring additional data sources.
 
-![Project Overview](final_output.png)
+![Project Overview](Final Output)
