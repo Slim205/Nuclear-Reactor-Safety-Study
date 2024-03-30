@@ -11,7 +11,7 @@ The data used in this project was provided by EDF France and included various pa
 
 ## Results
 - Successfully developed predictive models to identify high-risk situations.
-- Implemented Bayesian methods to quantify prediction uncertainties.
+- Implemented Conformal Prediction method to quantify prediction uncertainties.
 - Generated visualizations summarizing predictions and uncertainties.
 
 ## Collaboration
